@@ -39,6 +39,14 @@
         "tools": ["c","c++","python","java","sql","django"],
         "mentor":"Acdd",
         "url":"https://www.github.com"
+    },
+  {
+        "id": 6,
+        "name": "First git Project ",
+        "des": "description of project 6",
+        "tools": ["c","c++","python","java","sql","django"],
+        "mentor":"Acdd",
+        "url":"https://www.github.com"
     }
 ]
 }
