@@ -55,6 +55,14 @@
         "tools": ["c","c++","python","java","sql","django"],
         "mentor":"Acdd",
         "url":"https://www.github.com"
+    },
+   {
+        "id": 8,
+        "name": "2nd git Project ",
+        "des": "description of project 6",
+        "tools": ["c","c++","python","java","sql","django"],
+        "mentor":"utkarsh",
+        "url":"https://www.github.com"
     }
 ]
 }
