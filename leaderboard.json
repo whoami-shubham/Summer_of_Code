@@ -3,11 +3,11 @@
    
    {
         "id": 1,
-        "git_id": "user1",
-        "name": "name1",
+        "git_id": "utkarsh",
+        "name": "utkarsh khati",
         "commits":"1",
-        "added":"1",
-        "removed":"1",
+        "added":"10",
+        "removed":"20",
         "url":"https://www.github.com"
     },
     {
