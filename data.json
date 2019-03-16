@@ -2,17 +2,17 @@
  "data":[
     {
         "id": 1,
-        "name": "Take out the trash",
-        "des": "description of project 1",
-        "tools": ["c","c++","python","java","sql","django"],
-        "mentor":"Acdd",
+        "name": "Utkarsh's Project ",
+        "des": "description of this project",
+        "tools": ["c","c++","python","java","sql","javaScript"],
+        "mentor":"utkarsh khati",
         "url":"https://www.github.com"
     },
     {
         "id": 2,
         "name": "Grocery shopping",
         "des": "description of project 2",
-        "tools": ["c","c++","python","java","sql","django"],
+        "tools": ["c","c++","python","java","sql","django","go"],
         "mentor":"xyz",
         "url":"https://www.github.com"
     },
@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Clean gecko tank",
         "des": "description of project 3",
-        "tools": ["c","c++","python","java","sql","django"],
+        "tools": ["c","c++","python","java","sql","flask"],
         "mentor":"Acdd",
         "url":"https://www.github.com"
     },
@@ -28,7 +28,7 @@
         "id": 4,
         "name": "Mow lawn",
         "des": "description of project 4",
-        "tools": ["c","c++","python","java","sql","django"],
+        "tools": ["c","c++","python","java","sql","rails"],
         "mentor":"Acdd",
         "url":"https://www.github.com"
     },
@@ -36,7 +36,7 @@
         "id": 5,
         "name": "Catch up on Arrested Development",
         "des": "description of project 5",
-        "tools": ["c","c++","python","java","sql","django"],
+        "tools": ["c","c++","python","java","sql","nodejs"],
         "mentor":"Acdd",
         "url":"https://www.github.com"
     },
@@ -44,7 +44,7 @@
         "id": 6,
         "name": "First git Project ",
         "des": "description of project 6",
-        "tools": ["c","c++","python","java","sql","django"],
+        "tools": ["c","c++","python","java","sql","Angular"],
         "mentor":"Acdd",
         "url":"https://www.github.com"
     },
@@ -52,17 +52,18 @@
         "id": 7,
         "name": "2nd git Project ",
         "des": "description of project 6",
-        "tools": ["c","c++","python","java","sql","django"],
+        "tools": ["c","c++","python","java","sql","React"],
         "mentor":"Acdd",
         "url":"https://www.github.com"
     },
-   {
+  {
         "id": 8,
-        "name": "Utkarsh's Project ",
-        "des": "description of project 6",
-        "tools": ["c","c++","python","java","sql","django"],
-        "mentor":"utkarsh khati",
+        "name": "Take out the trash",
+        "des": "description of project ",
+        "tools": ["c","c++","python","java","sql","Vue"],
+        "mentor":"Acdd",
         "url":"https://www.github.com"
-    }
+    },
+   
 ]
 }
