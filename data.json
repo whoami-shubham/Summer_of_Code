@@ -69,7 +69,8 @@
         "des": "description of project ",
         "tools": ["c","c++","python","java","sql","Vue"],
         "mentor":"Acdd",
-        "url":"https://www.github.com"
+        "url":"#",
+        "profile_url":"#"
     },
   {
         "id": 9,
@@ -77,7 +78,8 @@
         "des": "description of project ",
         "tools": ["c","c++","python","java","sql","Vue"],
         "mentor":"Acdd",
-        "url":"https://www.github.com"
+        "url":"#",
+        "profile_url":"#"
     }
    
 ]
