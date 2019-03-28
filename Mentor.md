@@ -3,7 +3,7 @@
 ### Eligibility
  - You must have one or more projects on GitHub .
  - Your project should be documented so that others can understand your code .
- - Your projects should have more than five easy-to-fix and at least one
+ - Your projects should have two or more easy-to-fix or good-first and at least one
 moderate level issues
 
 ### Why Should You Apply?
