@@ -230,3 +230,7 @@ article{
   font-weight: 500;
   line-height: 1.2;
 }
+.link_white{
+  color: white;
+  text-decoration: none;
+}
