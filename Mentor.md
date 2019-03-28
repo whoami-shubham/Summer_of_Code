@@ -14,6 +14,7 @@ moderate level issues
   utility and want to make it real in ?.
   then you should apply.
 
+### Add Your Project
 [![add new project](https://img.shields.io/badge/add%20new-project-brightgreen.svg)](https://github.com/whoami-shubham/Summer_of_Code/issues/new "add project")
 <br/>
  submit your project in following JSON format <br/>
@@ -32,4 +33,9 @@ moderate level issues
 
 for more details check out [this](https://github.com/whoami-shubham/Summer_of_Code/issues/1)
 <br/>
- 
+### stats
+ [![update stats](https://img.shields.io/badge/submit-stats-orange.svg)](https://github.com/whoami-shubham/Summer_of_Code/issues/new)
+ <br/>
+ if Your contributors make commit to your project then submit updated stats here in order to update
+ leaderboard. <br/>
+ for more details check out [this](https://github.com/whoami-shubham/Summer_of_Code/issues/3)
