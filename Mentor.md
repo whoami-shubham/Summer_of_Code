@@ -25,7 +25,8 @@ moderate level issues
           "des": "description of project ", 
           "tools": ["tool1","tool2","tool3","tool4",.. , "tooln"], 
           "mentor":"your name", 
-          "url":"project github link" 
+          "url":"project github link",
+          "profile_url":"link of your github profile"
       }
 
 
