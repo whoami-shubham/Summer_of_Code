@@ -1,7 +1,7 @@
 # Mentor Guide
 
 ### Eligibility
- - You must have one or more projects on GitHub with merge access.
+ - You must have one or more projects on GitHub .
  - Your project should be documented so that others can understand your code .
  - Your projects should have more than five easy-to-fix and at least one
 moderate level issues
