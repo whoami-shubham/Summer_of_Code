@@ -20,6 +20,13 @@ First of all, you can choose as many projects as you want. It’s not about
 doing everything on just one project, but solving as many issues as you
 can, contributing as much as you can.
 
+### steps
+  * fork your mentor's project -> clone repository -> code -> push  -> send pull request
+### steps for clone and push
+  ![git](./git.gif)
+  
+
+
 ### Coding Style
 Almost all the languages have a definitive style guide for them. Putting
 correct indentation, obeying line lengths, etc. are the features which make
