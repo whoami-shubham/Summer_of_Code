@@ -30,6 +30,6 @@ moderate level issues
 
 
 
-for more details check out [this](https://github.com/whoami-shubham/Summer_of_Code/issues/1,"readme")
+for more details check out [this](https://github.com/whoami-shubham/Summer_of_Code/issues/1)
 <br/>
  
