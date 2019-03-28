@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### submit your contributors stats in following JSON format to update Leaderboard
+### edit this section and  submit your contributors stats in following JSON format to update Leaderboard for  each contributors
 ```
 `{
         "github_username": "username",

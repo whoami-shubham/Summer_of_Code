@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-submit your project details in following JSON format in comment section of issue
+edit this section and submit your project details in following JSON format 
 
 ```
 `
@@ -16,7 +16,8 @@ submit your project details in following JSON format in comment section of issue
         "des": "description of project ",
         "tools": ["tool1","tool2","tool3","tool4",.. , "tooln"],
         "mentor":"your name",
-        "url":"project github link"
+        "url":"project github link",
+        "profile_url":"Your github profile url"
     }
 `
 ```
