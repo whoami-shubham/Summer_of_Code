@@ -1,4 +1,5 @@
 # Student Guide
+![git](./git_meme.jpeg)
 ### Why Should You Apply?
 While you’ll be adding your piece of code to the existing codebase,
 you will get to learn the structure of the project and more about the
