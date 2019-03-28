@@ -1,6 +1,6 @@
 ---
 name: New Project
-about: Your Project Name
+about: Submit Your Project here
 title: new project
 labels: new project
 assignees: ''

@@ -1,6 +1,6 @@
 ---
 name: Contributor stats
-about: contributor username
+about: submit contributor status here
 title: stats
 labels: stats
 assignees: ''
