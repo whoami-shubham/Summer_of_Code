@@ -1,6 +1,6 @@
 # Summer_of_Code
 
-[website](https://whoami-shubham.github.io/Summer_of_Code/#/) <br/>
+[![website](https://img.shields.io/badge/visit-website-blue.svg)](https://whoami-shubham.github.io/Summer_of_Code/#/ "Summer of Code") <br/>
 
 # For Mentors
 
