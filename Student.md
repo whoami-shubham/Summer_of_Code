@@ -20,6 +20,11 @@ First of all, you can choose as many projects as you want. It’s not about
 doing everything on just one project, but solving as many issues as you
 can, contributing as much as you can.
 
+### Adding Your Own Project
+Summer of Code is about working on Open Source . In case you did not
+like any of the projects listed. Tell us about
+the project you’re working on, add your project as mentor.
+
 ### steps
   * fork your mentor's project -> clone repository -> code -> push  -> send pull request
 ### steps for clone and push
