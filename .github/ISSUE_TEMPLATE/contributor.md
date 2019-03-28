@@ -1,5 +1,5 @@
 ---
-name: Contributor stats
+name: Contributor
 about: contributor username
 title: stats
 labels: stats
