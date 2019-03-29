@@ -7,7 +7,7 @@
 moderate level issues
 
 ### 🚀 Why Should You Apply?
-#### 🚀 Boost Your Project
+#### ✨ Boost Your Project
   Do you have a project which you had started months ago and now you
   don’t find time to add new features to it or fix small issues?
   Do you have an idea in your mind about a small or big
