@@ -218,6 +218,7 @@ article{
 .margin_auto{
   margin: auto !important;
 }
+
 .m_3{
   margin: 1rem;
 }
@@ -229,6 +230,7 @@ article{
   margin-left: 1.5rem !important;
 }
 @media (max-width: 992px){
+  
   .navbar-collapse{
     margin-left: 15px;
   }
@@ -240,7 +242,8 @@ article{
     font-size: calc(2px + 2vmin) !important; 
    }
    .t{
-     font-size: 1.5rem !important;
+     font-size: 1.2rem !important;
+     color:#1967d2;
    }
    .c{
      font-size: .75rem !important;
