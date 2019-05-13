@@ -5,6 +5,7 @@ While you’ll be adding your piece of code to the existing codebase,
 you will get to learn the structure of the project and more about the
 process of creating it from scratch.
 That, in future will help you in creating your own projects.
+If You don’t know how to code it's fine contributing is not all about coding you can still contribute in documentation of project or improving existing documentation by fixing typos or broken links etc .
 
 ### 🚀 requirements 
  - A Working Laptop / PC With Internet Connection
