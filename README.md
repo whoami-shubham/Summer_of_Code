@@ -3,5 +3,6 @@
 [![Student Guide](https://img.shields.io/badge/Student-Guide-green.svg)](https://github.com/whoami-shubham/Summer_of_Code/blob/master/Student.md  "Student Guide")
 ![](https://img.shields.io/badge/MadeWith-React-brightgreen.svg)
 # Summer of Code
+This branch contains components of react that produce the build that is present in master branch.
 
  
