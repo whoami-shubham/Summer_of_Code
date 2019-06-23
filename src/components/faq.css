@@ -1,0 +1,35 @@
+.card-header{
+    background: white !important;
+    
+}
+
+
+.btn-link{
+    text-decoration: none !important;
+    font-weight: bold;
+    color:black;
+    font-size: medium;
+}
+h1{
+    color:#1967d2;
+}
+/* btn-link:hover {
+    color:black;
+} */
+.inline{
+    display: contents;
+}
+.ul_circle{
+    list-style-type: circle !important;
+}
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+@media (max-width: 992px){
+    h1{
+      font-size: 20px;
+    }
+    .accordion,.btn-link{
+        font-size: 10px !important;
+    }
+}
